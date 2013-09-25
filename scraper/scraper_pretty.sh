@@ -2,6 +2,8 @@
 
 # Figure out the length of the base URL so that we can extract
 # the name of the file later by cutting off the base URL.
+# The "\" at the end of some of the lines are there to break long commands
+# into multiple lines.
 cutpoint=$(echo "http://ecx.images-amazon.com/images/I/" \
     | wc -m \
     | grep '[0-9]\{1,\}' --only-matching)
