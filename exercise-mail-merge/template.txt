@@ -1,0 +1,9 @@
+Dear --first-- --last--,
+
+It is with great pleasure to announce to you that you have won a free ten
+thousand dollar --item--! Please go to --location-- immediately to claim your
+prize! You must do this before --date-- or else this offer will expire!
+
+Sincerely,
+--sender--
+
